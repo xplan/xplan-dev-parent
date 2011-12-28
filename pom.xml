@@ -30,7 +30,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<!-- 设定除中央仓库(repo1.maven.org/maven2/)外的其他仓库,按设定顺序进行查找. -->
-	<!-- 注意：本仓库使用内网搭建的nexus代理，www.aplan.com为内网域名-->
+	<!-- 注意：本仓库使用内网搭建的nexus代理，www.aplan.com为内网域名 注意本地仓库配置-->
 	<repositories>
 		<repository>
 			<id>nexus</id>
